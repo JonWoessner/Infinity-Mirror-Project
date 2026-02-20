@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParamWithValueList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <version>20080502</version>
+  <parameterTypes>
+    <ParamType>
+      <typeName>Inventor</typeName>
+      <typeCode>0</typeCode>
+    </ParamType>
+    <ParamType>
+      <typeName>String</typeName>
+      <typeCode>1</typeCode>
+    </ParamType>
+    <ParamType>
+      <typeName>Boolean</typeName>
+      <typeCode>2</typeCode>
+    </ParamType>
+  </parameterTypes>
+  <parameters>
+    <ParamWithValue>
+      <name>d0</name>
+      <typeCode>in</typeCode>
+      <value>2.5 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d1</name>
+      <typeCode>in</typeCode>
+      <value>2.5 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d2</name>
+      <typeCode>in</typeCode>
+      <value>2.5 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d3</name>
+      <typeCode>deg</typeCode>
+      <value>0.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d4</name>
+      <typeCode>in</typeCode>
+      <value>0.29 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d5</name>
+      <typeCode>in</typeCode>
+      <value>3.1375 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d6</name>
+      <typeCode>deg</typeCode>
+      <value>0.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>outerprofile</name>
+      <typeCode>in</typeCode>
+      <value>2.5 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>innerprofile</name>
+      <typeCode>in</typeCode>
+      <value>1.92 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>overalldepth</name>
+      <typeCode>in</typeCode>
+      <value>2.5 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>ledsandwich</name>
+      <typeCode>in</typeCode>
+      <value>ledwidth + 2 ul * acrylicthickness + trimdepth</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>wirechannelwidth</name>
+      <typeCode>mm</typeCode>
+      <value>8 mm</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>wirechanneldepth</name>
+      <typeCode>mm</typeCode>
+      <value>3 mm</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>frontpanelsupports</name>
+      <typeCode>in</typeCode>
+      <value>0.25 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>outerfillets</name>
+      <typeCode>in</typeCode>
+      <value>0.29 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>supportfillets</name>
+      <typeCode>in</typeCode>
+      <value>0.25 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d7</name>
+      <typeCode>in</typeCode>
+      <value>outerprofile</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d8</name>
+      <typeCode>in</typeCode>
+      <value>outerprofile</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d9</name>
+      <typeCode>in</typeCode>
+      <value>overalldepth</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d10</name>
+      <typeCode>deg</typeCode>
+      <value>0.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>ledwidth</name>
+      <typeCode>mm</typeCode>
+      <value>10 mm</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>acrylicthickness</name>
+      <typeCode>in</typeCode>
+      <value>0.125 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>trimwidth</name>
+      <typeCode>in</typeCode>
+      <value>1.0 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>trimdepth</name>
+      <typeCode>in</typeCode>
+      <value>0.2 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d11</name>
+      <typeCode>in</typeCode>
+      <value>innerprofile</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d12</name>
+      <typeCode>in</typeCode>
+      <value>-ledsandwich</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d14</name>
+      <typeCode>deg</typeCode>
+      <value>0.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>patternspacing</name>
+      <typeCode>in</typeCode>
+      <value>innerprofile - frontpanelsupports</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>wirechannelspacing</name>
+      <typeCode>in</typeCode>
+      <value>0.425 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>controllerseatbeltheight</name>
+      <typeCode>in</typeCode>
+      <value>0.4 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>controllerseatbeltwidth</name>
+      <typeCode>in</typeCode>
+      <value>0.6 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>wirechannelfillets</name>
+      <typeCode>in</typeCode>
+      <value>1.0 in</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d41</name>
+      <typeCode>in</typeCode>
+      <value>outerfillets</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d42</name>
+      <typeCode>in</typeCode>
+      <value>outerfillets</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d44</name>
+      <typeCode>in</typeCode>
+      <value>1.6 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d45</name>
+      <typeCode>in</typeCode>
+      <value>controllerseatbeltheight</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d55</name>
+      <typeCode>in</typeCode>
+      <value>1.6 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d56</name>
+      <typeCode>in</typeCode>
+      <value>controllerseatbeltheight</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d57</name>
+      <typeCode>in</typeCode>
+      <value>controllerseatbeltwidth</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d58</name>
+      <typeCode>in</typeCode>
+      <value>2 ul * supportfillets</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d59</name>
+      <typeCode>in</typeCode>
+      <value>0.75 in</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d60</name>
+      <typeCode>deg</typeCode>
+      <value>0.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d61</name>
+      <typeCode>in</typeCode>
+      <value>supportfillets</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d62</name>
+      <typeCode>in</typeCode>
+      <value>supportfillets</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d63</name>
+      <typeCode>in</typeCode>
+      <value>0 in</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d64</name>
+      <typeCode>in</typeCode>
+      <value>0 in</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d65</name>
+      <typeCode>ul</typeCode>
+      <value>0.372 ul</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d79</name>
+      <typeCode>in</typeCode>
+      <value>0.118 in</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>pcblength</name>
+      <typeCode>in</typeCode>
+      <value>32 mm</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d103</name>
+      <typeCode>in</typeCode>
+      <value>3 ul * 0.45 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d104</name>
+      <typeCode>in</typeCode>
+      <value>18.25 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d108</name>
+      <typeCode>in</typeCode>
+      <value>4.6 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d111</name>
+      <typeCode>in</typeCode>
+      <value>d108</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d112</name>
+      <typeCode>in</typeCode>
+      <value>1.2 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d113</name>
+      <typeCode>deg</typeCode>
+      <value>0.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d114</name>
+      <typeCode>in</typeCode>
+      <value>3.6 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d115</name>
+      <typeCode>in</typeCode>
+      <value>4.6 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d116</name>
+      <typeCode>in</typeCode>
+      <value>4.6 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d117</name>
+      <typeCode>in</typeCode>
+      <value>6.5 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d118</name>
+      <typeCode>deg</typeCode>
+      <value>0.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d119</name>
+      <typeCode>in</typeCode>
+      <value>1.4 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d120</name>
+      <typeCode>in</typeCode>
+      <value>15 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d121</name>
+      <typeCode>deg</typeCode>
+      <value>0.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d122</name>
+      <typeCode>in</typeCode>
+      <value>0.5 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d123</name>
+      <typeCode>in</typeCode>
+      <value>3.8 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d124</name>
+      <typeCode>in</typeCode>
+      <value>4.75 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d125</name>
+      <typeCode>in</typeCode>
+      <value>d124</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d126</name>
+      <typeCode>in</typeCode>
+      <value>d127</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d127</name>
+      <typeCode>in</typeCode>
+      <value>2.4 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d129</name>
+      <typeCode>deg</typeCode>
+      <value>0.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d130</name>
+      <typeCode>in</typeCode>
+      <value>acrylicthickness + ledwidth - 1 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d131</name>
+      <typeCode>in</typeCode>
+      <value>ledwidth</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d132</name>
+      <typeCode>in</typeCode>
+      <value>3 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d133</name>
+      <typeCode>in</typeCode>
+      <value>wirechannelwidth</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d135</name>
+      <typeCode>in</typeCode>
+      <value>wirechannelwidth</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d136</name>
+      <typeCode>in</typeCode>
+      <value>2 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d141</name>
+      <typeCode>in</typeCode>
+      <value>wirechanneldepth</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d142</name>
+      <typeCode>deg</typeCode>
+      <value>0.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d143</name>
+      <typeCode>in</typeCode>
+      <value>wirechanneldepth</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d152</name>
+      <typeCode>in</typeCode>
+      <value>0.5 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d153</name>
+      <typeCode>in</typeCode>
+      <value>0.9 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d154</name>
+      <typeCode>in</typeCode>
+      <value>0.8 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d155</name>
+      <typeCode>deg</typeCode>
+      <value>0.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>wing</name>
+      <typeCode>in</typeCode>
+      <value>6.25 mm</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d157</name>
+      <typeCode>in</typeCode>
+      <value>wirechanneldepth * 2 ul</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d158</name>
+      <typeCode>in</typeCode>
+      <value>2 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d160</name>
+      <typeCode>in</typeCode>
+      <value>wing</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d161</name>
+      <typeCode>in</typeCode>
+      <value>wing</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d162</name>
+      <typeCode>in</typeCode>
+      <value>3 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d165</name>
+      <typeCode>deg</typeCode>
+      <value>0.00 deg</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d166</name>
+      <typeCode>in</typeCode>
+      <value>2 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d167</name>
+      <typeCode>in</typeCode>
+      <value>0.5 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d168</name>
+      <typeCode>in</typeCode>
+      <value>4 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d172</name>
+      <typeCode>in</typeCode>
+      <value>-0.7 mm</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>Default;Nominal;Document Precision</tolerance>
+    </ParamWithValue>
+  </parameters>
+</ParamWithValueList>

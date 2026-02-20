@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "seeed")(type "KiCad")(uri "C:/Users/jonwo/OneDrive/Documents/Teaching/Curriculum/Digital Electronics/infinity mirror/Seeeduino-XIAO-ESP32C3-KiCAD-Library/Seeeduino xiao ESP32C3 KiCAD Library/xiao ESP32C3_PCB.pretty")(options "")(descr ""))
+)

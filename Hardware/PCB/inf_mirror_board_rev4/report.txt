@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\jonwo\OneDrive\Documents\Teaching\Curriculum\Digital Electronics\infinity mirror\inf_mirror_board_rev1\Gerbers\inf_mirror_board_rev1-F_Cu.gbr'.
+Plotted to 'C:\Users\jonwo\OneDrive\Documents\Teaching\Curriculum\Digital Electronics\infinity mirror\inf_mirror_board_rev1\Gerbers\inf_mirror_board_rev1-B_Cu.gbr'.
+Plotted to 'C:\Users\jonwo\OneDrive\Documents\Teaching\Curriculum\Digital Electronics\infinity mirror\inf_mirror_board_rev1\Gerbers\inf_mirror_board_rev1-F_Paste.gbr'.
+Plotted to 'C:\Users\jonwo\OneDrive\Documents\Teaching\Curriculum\Digital Electronics\infinity mirror\inf_mirror_board_rev1\Gerbers\inf_mirror_board_rev1-B_Paste.gbr'.
+Plotted to 'C:\Users\jonwo\OneDrive\Documents\Teaching\Curriculum\Digital Electronics\infinity mirror\inf_mirror_board_rev1\Gerbers\inf_mirror_board_rev1-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\jonwo\OneDrive\Documents\Teaching\Curriculum\Digital Electronics\infinity mirror\inf_mirror_board_rev1\Gerbers\inf_mirror_board_rev1-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\jonwo\OneDrive\Documents\Teaching\Curriculum\Digital Electronics\infinity mirror\inf_mirror_board_rev1\Gerbers\inf_mirror_board_rev1-F_Mask.gbr'.
+Plotted to 'C:\Users\jonwo\OneDrive\Documents\Teaching\Curriculum\Digital Electronics\infinity mirror\inf_mirror_board_rev1\Gerbers\inf_mirror_board_rev1-B_Mask.gbr'.
+Plotted to 'C:\Users\jonwo\OneDrive\Documents\Teaching\Curriculum\Digital Electronics\infinity mirror\inf_mirror_board_rev1\Gerbers\inf_mirror_board_rev1-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\jonwo\OneDrive\Documents\Teaching\Curriculum\Digital Electronics\infinity mirror\inf_mirror_board_rev1\Gerbers\inf_mirror_board_rev1-job.gbrjob'.
+Info: Done.
